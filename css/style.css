@@ -31,10 +31,10 @@
 }
 
 .right-image img {
-  max-width: 100%;
-  height: auto;
+  width: 50%; /* Sets the image to take up half of the screen width */
+  height: auto; /* Maintains the aspect ratio */
   display: block;
-  margin: 0 auto; /* Centers the image if needed */
+  margin: 0 auto; /* Centers the image */
 }
 
 body {
