@@ -30,10 +30,11 @@
   font-size: 1.25rem;
 }
 
-.right-image {
+.right-image img {
+  max-width: 100%;
   height: auto;
-  width: 250px;
-  float: right;
+  display: block;
+  margin: 0 auto; /* Centers the image if needed */
 }
 
 body {
