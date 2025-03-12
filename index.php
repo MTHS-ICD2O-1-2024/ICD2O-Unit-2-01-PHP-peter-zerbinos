@@ -43,7 +43,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="First Hello World" width="250" height="150" />
+        <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="First Hello World" width="480" height="526"/>
       </div>
       <div class="page-content">Click the button below.</div>
       <br />
