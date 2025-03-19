@@ -24,6 +24,19 @@
   font-size: 1.25rem;
 }
 
+.page-content-answer {
+  color: rgb(0 0 0);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+}
+
+.right-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Centers the image if needed */
+}
+
 body {
   background-color: cornflowerblue;
 }
