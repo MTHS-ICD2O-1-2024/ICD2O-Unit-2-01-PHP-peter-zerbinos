@@ -1,5 +1,5 @@
-/* Created by: Peter Zerbinos
-* Created on: Feb 2025
+/* Created by: Mr. Coxall
+* Created on: Mar 2025
 * This file contains the CSS for index.html
 */
 
@@ -24,19 +24,11 @@
   font-size: 1.25rem;
 }
 
-.page-content-answer {
-  color: rgb(0 0 0);
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.25rem;
-}
-
-.right-image img {
-  width: 50%; /* Sets the image to take up half of the screen width */
-  height: auto; /* Maintains the aspect ratio */
-  display: block;
-  margin: 0 auto; /* Centers the image */
-}
-
 body {
-  background-color: rgb(35, 113, 22);
+  background-color: cornflowerblue;
+}
+
+img {
+  float: right;
+  height: 200px;
 }
